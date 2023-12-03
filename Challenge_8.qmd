@@ -3,12 +3,12 @@ title: "DACSS601_Challenge_8"
 author: "Shreeya Patil"
 format: html
 editor: visual
-
-# Last Movie Watched in a Theater
-
-The last movie I watched in a theater was Jawaan (bollywood movie).
 ---
 
-# Last Movie Watched in a Theater
+Q1) Last Movie Watched in a Theater
 
-The last movie I watched in a theater was Jawaan (bollywood movie).
+A1) The last movie I watched in a theater was Jawaan (bollywood movie).
+
+Q2) What did you eat for today's lunch?
+
+A2) I ate Chicken Wings and Pho for lunch today.
