@@ -1,0 +1,14 @@
+---
+title: "DACSS601_Challenge_8"
+author: "Shreeya Patil"
+format: html
+editor: visual
+
+# Last Movie Watched in a Theater
+
+The last movie I watched in a theater was Jawaan (bollywood movie).
+---
+
+# Last Movie Watched in a Theater
+
+The last movie I watched in a theater was Jawaan (bollywood movie).
